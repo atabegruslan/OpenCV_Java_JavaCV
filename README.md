@@ -1,0 +1,6 @@
+- https://github.com/IMS94/javacv-cnn-example/tree/master?tab=readme-ov-file
+	- https://loneidealist.medium.com/age-and-gender-recognition-with-javacv-and-cnn-fdebb3d436c0
+- https://github.com/topics/gender-recognition?l=java
+- https://github.com/mesutpiskin/java-gender-recognition
+- https://github.com/bytedeco/javacv
+- https://stackoverflow.com/questions/21207755/opencv-javacv-vs-opencv-c-c-interfaces/21208627#21208627
